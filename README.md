@@ -14,6 +14,6 @@ The app that will make you decide a food item before you starve out :P
 
 
 4
-![Image 4](https://github.com/ipshitag/DinnerDecider/blob/master/Screenshot_1591355614.png)
+![Image 4](https://github.com/ipshitag/DinnerDecider/blob/master/Screenshot_1591358806.png)
 
 
